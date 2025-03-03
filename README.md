@@ -1,5 +1,7 @@
 # weatherApp
 This Application can be used to get Weather info for a given Address ( city or zip code)
+This is a Spring boot application, and exposes its features via REST endpoints.
+
 Prerequisite: Java 17 and maven 3.5 or later
 To compile run> mvn clean compile
 To run> mvn spring-boot:run
